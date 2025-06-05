@@ -1,20 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="UTF-8">
-  <title>Kishore Dubakunta - Test Architect / QA Manager Resume</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 30px; }
-    h1, h2, h3 { color: #2d3e50; }
-    .contact-info { margin-bottom: 20px; }
-    .section { margin-bottom: 30px; }
-    .section-title { border-bottom: 2px solid #eee; padding-bottom: 5px; margin-bottom: 15px; }
-    ul { margin: 0; padding-left: 20px; }
-    table.skills-table, table.cert-table { border-collapse: collapse; width: 100%; }
-    table.skills-table td, table.cert-table td { border: 1px solid #ddd; padding: 8px; }
-    table.skills-table th, table.cert-table th { background: #f7f7f7; padding: 8px; border: 1px solid #ddd; }
-  </style>
-</head>
+
 <body>
 
   <h1>Kishore Dubakunta</h1>
@@ -47,7 +33,7 @@
       <li>Built a scalable automation framework to handle data for an entire UI migration which gave back $100K ROI.</li>
     </ul>
 
-    <h3>QA Lead, Cisco</h3>
+    <h3> QA Lead, Cisco</h3>
 <em>11/2015 - 08/2021 | Bangalore, India</em>
 <ul>
   <li>Led the team for a microservice-based cloud application deployed in AWS/GCP.</li>

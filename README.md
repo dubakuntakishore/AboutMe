@@ -1,78 +1,145 @@
-# AboutMe
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Kishore Dubakunta - Test Architect / QA Manager Resume</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 30px; }
+    h1, h2, h3 { color: #2d3e50; }
+    .contact-info { margin-bottom: 20px; }
+    .section { margin-bottom: 30px; }
+    .section-title { border-bottom: 2px solid #eee; padding-bottom: 5px; margin-bottom: 15px; }
+    ul { margin: 0; padding-left: 20px; }
+    table.skills-table, table.cert-table { border-collapse: collapse; width: 100%; }
+    table.skills-table td, table.cert-table td { border: 1px solid #ddd; padding: 8px; }
+    table.skills-table th, table.cert-table th { background: #f7f7f7; padding: 8px; border: 1px solid #ddd; }
+  </style>
+</head>
+<body>
 
-<h1 align="center">Hi 👋, I'm Kishore Kumar Dubakunta</h1> 
-<h3 align="center">QA Manager / Test Architect</h3>
+  <h1>Kishore Dubakunta</h1>
+  <div class="contact-info">
+    <strong>QA Manager / Test Architect</strong><br>
+    Hyderabad<br>
+    <strong>Phone:</strong> +91-9886869271<br>
+    <strong>Email:</strong> dubakuntakishore@gmail.com<br>
+    <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/kishore-kumar-dubakunta-4bb27440/">kishore-kumar-dubakunta-4bb27440</a>
+  </div>
 
-
-- ❄️ Minimalist Résumé of Kishore Kumar Dubakunta [[Ready Here]](https://drive.google.com/file/d/1NA2y5uv0c9r3RXtcMgh5VUuB6h8M_HJT/view?usp=drive_link)
-
-- 🔭 I’m currently working on **Low-Code/No-Code Platform**
-
-- 👯 I’m looking to collaborate on **Interesting projects**
-
-
-- 📫 How to reach me **dubakuntakishore@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/kishore-kumar-dubakunta-4bb27440/)
-
-<h4 align="left">Certifications:</h4>
-<table>
-<thead>
-<tr>
-  <td><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <p align="center"><img src="https://www.istqb.org/wp-content/uploads/2024/10/istqb-logo.png.avif" alt="istqb" width="90" height="70"/>
+  <div class="section">
+    <h2 class="section-title">Summary</h2>
+    <p>
+      With over 14 years of experience in quality assurance and engineering, I am an expert in creating and implementing test automation frameworks and solutions for complex business challenges. I lead and manage teams, provide strategic advice, and ensure continuous testing and integration using various tools and technologies.<br>
+      I am passionate about advancing my skills in business analytics and web technologies. I have successfully delivered large-scale projects through agile methodologies while implementing innovative automation frameworks and contributing to significant revenue growth. My leadership and communication skills allow me to effectively coach teams and foster collaboration to achieve organizational goals.
     </p>
-  </a>
-  </td>
- 
-</tbody>
-</table>
+  </div>
 
+  <div class="section">
+    <h2 class="section-title">Experience</h2>
+    <h3>QA Manager / Test Architect, Cisco</h3>
+    <em>08/2021 - Present | Hyderabad</em>
+    <ul>
+      <li>Spearheaded test automation for a mission-critical product, overseeing 4,000+ test cases to cut regression testing time by 80% and reduce sanity test cycles by 90%.</li>
+      <li>Led a cross-functional team of 20+ engineers in an Agile environment, ensuring end-to-end quality for Cisco’s Smart Services products, contributing to over $2B in annual revenue.</li>
+      <li>Architected an enterprise-grade automation infrastructure by integrating Jenkins CI/CD pipelines with PagerDuty alerting systems, enabling 24/7 build monitoring and reducing production-related incidents by 35%.</li>
+      <li>Engineered CI/CD pipelines across 12 global regions, slashing execution time by 80% through parallelization and resource optimization.</li>
+      <li>Developing UI, API, and mobile automation frameworks using cutting-edge technologies (e.g., Selenium, Appium, Postman) while crafting automation strategies to enhance product quality and release velocity.</li>
+      <li>Built a scalable automation framework to handle data for an entire UI migration which gave back $100K ROI.</li>
+    </ul>
 
-<table border="1">
-  <thead>
-    <tr>
-      <th>Skills</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>Cypress</td></tr>
-    <tr><td>Katalon</td></tr>
-    <tr><td>Cucumber</td></tr>
-    <tr><td>Selenium</td></tr>
-    <tr><td>GITHUB Copilot</td></tr>
-    <tr><td>CircleCI</td></tr>
-    <tr><td>Jenkins</td></tr>
-    <tr><td>Java</td></tr>
-    <tr><td>AWS</td></tr>
-    <tr><td>GCP</td></tr>
-    <tr><td>AppDynamics</td></tr>
-    <tr><td>Pager Duty</td></tr>
-    <tr><td>Jest</td></tr>
-    <tr><td>Functional Testing</td></tr>
-    <tr><td>Agile</td></tr>
-    <tr><td>SAFE</td></tr>
-    <tr><td>AI Tools</td></tr>
-    <tr><td>JavaScript</td></tr>
-    <tr><td>Appium</td></tr>
-    <tr><td>DevOps</td></tr>
-    <tr><td>Kibana</td></tr>
-    <tr><td>Splunk</td></tr>
-    <tr><td>Docker</td></tr>
-    <tr><td>SAFE</td></tr>
-    <tr><td>JIRA</td></tr>
-    <tr><td>Postman</td></tr>
-    <tr><td>Swagger</td></tr>
-    <tr><td>BrowserStack</td></tr>
-    <tr><td>Perfecto</td></tr>
-    <tr><td>TestNG</td></tr>
-    <tr><td>ITIL</td></tr>
-    <tr><td>SonarQube</td></tr>
-    <tr><td>Docker</td></tr>
-    <tr><td>SCRUM</td></tr>
-  </tbody>
-</table>
+    <h3>QA Lead, Cisco</h3>
+    <em>11/2015 - 08/2021 | Bangalore, India</em>
+    <ul>
+      <li>Led the team for a micro service based cloud application deployed in AWS/GCP.</li>
+      <li>Explored, created, and maintained automation frameworks.</li>
+    </ul>
 
+    <h3>QA Automation Engineer, Cisco</h3>
+    <em>08/2013 - 11/2015 | Bangalore, India</em>
+    <ul>
+      <li>Worked on Selenium Web-driver using Java & Appium automation scripts.</li>
+    </ul>
 
-<h3 align="left">My Contributions:</h3>
-https://github.com/Rupesh253/AboutMe/assets/18684949/07a666ff-e256-4b7f-a4f5-df4f737de156
+    <h3>QA Engineer, Mphasis Ltd</h3>
+    <em>05/2011 - 08/2013 | Bangalore, India</em>
+    <ul>
+      <li>Worked for HP Proliant Server’s Integrated Lights Out [iLO].</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2 class="section-title">Education</h2>
+    <ul>
+      <li>
+        <strong>Master of Business Administration</strong><br>
+        Prof G Ram Reddy Center for Distance Education<br>
+        03/2019 - 04/2021 | Hyderabad
+      </li>
+      <li>
+        <strong>Bachelor’s Degree in Computer Science and Information Technology (CSIT)</strong><br>
+        Institute Of Aeronautical Engineering (IARE) College, affiliated to JNTU<br>
+        09/2007 - 04/2011 | Hyderabad
+      </li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2 class="section-title">Key Achievements</h2>
+    <ul>
+      <li><strong>Team Management and Leadership:</strong> Led the design and implementation of a scalable test automation framework supporting API, web, and mobile platforms, increasing test coverage by 45% while reducing manual testing efforts by 50%.</li>
+      <li><strong>AI-assisted Test Automation:</strong> Led proof-of-concept (POC) initiatives implementing AI-assisted test scripting with GitHub Copilot and BridgeIT, resulting in 55% faster script development and 30% reduction in maintenance efforts.</li>
+      <li><strong>Comprehensive Metrics Dashboard:</strong> Developed a comprehensive metrics dashboard to track automation ROI (67% improvement), increase test coverage (from 89% to 94%), and reduce flaky tests by 42% year-over-year.</li>
+      <li><strong>Spearheaded Agile QA Practices:</strong> Established QA Standards and Training Programs, Elevating Team Skill Levels and Consistency in Deliverables.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2 class="section-title">Skills</h2>
+    <table class="skills-table">
+      <tr>
+        <td>Cypress</td><td>Katalon</td><td>Cucumber</td><td>Selenium</td>
+        <td>GITHUB Copilot</td><td>CircleCI</td><td>Jenkins</td><td>Java</td>
+      </tr>
+      <tr>
+        <td>AWS</td><td>GCP</td><td>AppDynamics</td><td>Pager Duty</td>
+        <td>Jest</td><td>Functional Testing</td><td>Agile</td><td>SAFE</td>
+      </tr>
+      <tr>
+        <td>AI Tools</td><td>JavaScript</td><td>Appium</td><td>DevOps</td>
+        <td>Kibana</td><td>Splunk</td><td>Docker</td><td>SAFE</td>
+      </tr>
+      <tr>
+        <td>JIRA</td><td>Postman</td><td>Swagger</td><td>BrowserStack</td>
+        <td>Perfecto</td><td>TestNG</td><td>ITIL</td><td>SonarQube</td>
+      </tr>
+      <tr>
+        <td>Docker</td><td>SCRUM</td><td></td><td></td>
+        <td></td><td></td><td></td><td></td>
+      </tr>
+    </table>
+  </div>
+
+  <div class="section">
+    <h2 class="section-title">Certification</h2>
+    <table class="cert-table">
+      <tr>
+        <th>Certification</th>
+        <th>Institution</th>
+      </tr>
+      <tr>
+        <td>ISTQB® Certified Tester, Advanced Level - Test Manager</td>
+        <td>Not specified</td>
+      </tr>
+      <tr>
+        <td>Certified Safe 4 Scrum Master (SSM) and POPM</td>
+        <td>Not specified</td>
+      </tr>
+      <tr>
+        <td>ITIL V3 Foundation</td>
+        <td>Not specified</td>
+      </tr>
+    </table>
+  </div>
+
+</body>
+</html>

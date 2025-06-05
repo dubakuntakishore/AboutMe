@@ -48,23 +48,24 @@
     </ul>
 
     <h3>QA Lead, Cisco</h3>
-    <em>11/2015 - 08/2021 | Bangalore, India</em>
-    <ul>
-      <li>Led the team for a micro service based cloud application deployed in AWS/GCP.</li>
-      <li>Explored, created, and maintained automation frameworks.</li>
-    </ul>
+<em>11/2015 - 08/2021 | Bangalore, India</em>
+<ul>
+  <li>Led the team for a microservice-based cloud application deployed in AWS/GCP.</li>
+  <li>Explored, created, and maintained automation frameworks.</li>
+</ul>
 
-    <h3>QA Automation Engineer, Cisco</h3>
-    <em>08/2013 - 11/2015 | Bangalore, India</em>
-    <ul>
-      <li>Worked on Selenium Web-driver using Java & Appium automation scripts.</li>
-    </ul>
+<h3>QA Automation Engineer, Cisco</h3>
+<em>08/2013 - 11/2015 | Bangalore, India</em>
+<ul>
+  <li>Worked on Selenium WebDriver using Java and Appium automation scripts.</li>
+</ul>
 
-    <h3>QA Engineer, Mphasis Ltd</h3>
-    <em>05/2011 - 08/2013 | Bangalore, India</em>
-    <ul>
-      <li>Worked for HP Proliant Server’s Integrated Lights Out [iLO].</li>
-    </ul>
+<h3>QA Engineer, Mphasis Ltd</h3>
+<em>05/2011 - 08/2013 | Bangalore, India</em>
+<ul>
+  <li>Worked for HP Proliant Server’s Integrated Lights Out (iLO).</li>
+</ul>
+
   </div>
 
   <div class="section">

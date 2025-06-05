@@ -24,41 +24,7 @@
     </p>
   </a>
   </td>
-  <td><a href="https://www.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <p align="center"><img src="https://logos-world.net/wp-content/uploads/2020/09/Microsoft-Logo.png" alt="microsoft" width="90" height="70"/>
-    </p>
-  </a>
-  </td>
-  <td><a href="https://www.cornell.edu/" target="_blank" rel="noreferrer">
-    <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cornell_University_seal.svg/1200px-Cornell_University_seal.svg.png" alt="cornell" width="70" height="70"/>
-    </p>
-  </a>
-  </td>
-</tr>
-</thead>
-<tbody>
-  <tr>
-  <td>
-    <ul>
-    <li>Certified Foundation Level Tester</li>
-    <li>Certified Advanced Level <br>
-     - Test Manager
-    </li>
-    <li>Mobile Application Specialist Tester</li>
-    </ul>
-  </td>
-   <td>
-     <ul>
-    <li>C# Certified Specialist</li>
-    <li>Querying SQLServer Expert</li>
-    </ul>
-   </td>
-   <td>
-     <ul>
-    <li>Machine Learning Practitioner</li>
-    </ul>
-   </td>
-</tr>
+ 
 </tbody>
 </table>
 
